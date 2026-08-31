@@ -6,7 +6,6 @@ A stock price simulator built on Geometric Brownian Motion. Takes any ticker, pu
 
 
 ## What it does
-
 - Downloads historical price data for any ticker via yfinance
 - Calculates mean daily return and volatility from that historical data
 - Simulates 1000 future price paths using GBM, each with a unique sequence of random shocks
